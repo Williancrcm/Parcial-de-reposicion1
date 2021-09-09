@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Desktop\Trabajos de program\Trabajos de C#\ProgramaciónComputacional\Parcial de reposición\bin\Debug\Parcial de reposición.exe.config
+C:\Users\LENOVO\Desktop\Trabajos de program\Trabajos de C#\ProgramaciónComputacional\Parcial de reposición\bin\Debug\Parcial de reposición.exe
+C:\Users\LENOVO\Desktop\Trabajos de program\Trabajos de C#\ProgramaciónComputacional\Parcial de reposición\bin\Debug\Parcial de reposición.pdb
+C:\Users\LENOVO\Desktop\Trabajos de program\Trabajos de C#\ProgramaciónComputacional\Parcial de reposición\obj\Debug\Parcial de reposición.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Trabajos de program\Trabajos de C#\ProgramaciónComputacional\Parcial de reposición\obj\Debug\Parcial de reposición.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Trabajos de program\Trabajos de C#\ProgramaciónComputacional\Parcial de reposición\obj\Debug\Parcial de reposición.exe
+C:\Users\LENOVO\Desktop\Trabajos de program\Trabajos de C#\ProgramaciónComputacional\Parcial de reposición\obj\Debug\Parcial de reposición.pdb
